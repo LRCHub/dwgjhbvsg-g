@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛属性",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-19T11:38:02.097984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛属性",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/01_愛属性_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛属性 (Romanized)",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_愛属性_(Romanized)_ピノキオピー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛属性",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_愛属性_ピノキオピー.txt"
+    }
+  ]
+}
