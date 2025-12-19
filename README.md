@@ -1,0 +1,109 @@
+# ピノキオピー – 愛属性
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.14] ai zokusei
+[00:08.92] suki suki daisuki
+[00:09.85] anata o omou to watashi wa muteki ni naru
+[00:12.31] iya iya ki no sei noboseta atama ni
+[00:14.00] heddoshotto ga kimaru
+[00:24.50] 
+[00:25.00] 
+[00:15.63] dokidoki-kyou no wana ni hamari
+[00:17.05] hakariuri sareru haato maaku
+[00:18.94] rabu rabu moodo no gumin o yokome ni
+[00:20.53] shihaisha ga warau wa
+[00:31.03] 
+[00:31.53] 
+[00:22.28] usankusai I love you —
+[00:23.78] tsuriawanai I need you —
+[00:25.44] ai o kiratte mo sore mo mata ai de aru
+[00:44.44] 
+[00:44.94] 
+[00:28.80] ki ga mizu de kieru you ni
+[00:30.42] guu ga paa de chiru you ni
+[00:32.09] genjitsu o mae ni bai no dameeji kuraimasu
+[00:53.09] 
+[00:53.59] 
+[00:35.61] ita itata tattattata
+[00:45.61] 
+[00:46.11] 
+[00:37.11] ai wa uso ni yowaku
+[00:38.77] ai wa fukou ni yowaku
+[00:40.45] ai no imi ga yuragu
+[00:42.25] jukujuku kizu ga hiraita
+[00:43.74] ai wa kane ni yowaku
+[00:45.39] ai wa fuuhyou ni yowaku
+[00:47.07] aikawarazu hozaku
+[00:48.89] "demo kimi ga suki nanda"
+[00:50.27] ai zokusei
+[00:51.13] （ai zokusei）
+[00:53.71] ichi miri no zure de doku ni naru sore o daiji ni kakaete ita
+[00:56.78] ai zokusei
+[00:57.82] （ai zokusei）
+[01:00.32] ai suru hodo jakuten ni naru sore o suterarezu ni imashita
+[01:29.32] 
+[01:29.82] 
+[01:03.42] kore jun ai? sai ai? sei ai? hen ai? mou ai? kyou ai? mushou ai?
+[01:06.85] jiko ai? rita ai? bakashiai?
+[01:08.59] ai ai urusee mou ikkai
+[01:10.20] jun ai? sai ai? sei ai? hen ai? mou ai? kyou ai? ika katsuai
+[01:13.51] rabu rabu soodo de teki mo mikata mo buttagitte shimau wa
+[01:42.01] 
+[01:42.51] 
+[01:16.84] himei agaru I want you —
+[01:18.48] tsutawaranai I hate you —
+[01:20.18] ai o sosoide kusari ochita hana mo aru
+[01:39.18] 
+[01:39.68] 
+[01:23.45] kusa ga hi de moeru you ni
+[01:24.95] sei ga shi de kageru you ni
+[01:26.64] koukabatsugun no kauntaa ni mimodaemasu
+[01:46.14] 
+[01:46.64] 
+[01:30.25] ita itata tattattata
+[01:40.25] 
+[01:40.75] 
+[01:31.76] ai wa yoku ni yowaku
+[01:33.40] ai wa ken'i ni yowaku
+[01:35.06] ai ga aku ni somaru
+[01:36.90] dokudoku chi ga tomaran wa
+[01:38.46] ai wa kyori ni yowaku
+[01:40.06] ai wa tsukihi ni yowaku
+[01:41.70] aenaku awa ni naru
+[01:43.56] "aa kimi ga suki datta"
+[01:44.85] ai zokusei
+[01:45.68] （ai zokusei）（ai zokusei）（zokusei）
+[01:48.31] kasutta dake de hinshi no takaramono senaka ni obutte ita
+[01:51.43] ai zokusei
+[01:52.28] （ai zokusei）（ai zokusei）（zokusei）
+[01:54.90] HP zero de kan'oke ni nogare jumon o tonaete ita
+[02:18.90] 
+[02:19.40] 
+[01:58.25] ai wa hontou wa tsuyokute
+[02:01.56] ai wa hibi o terashite
+[02:04.87] ai wa saigo ni katte
+[02:08.19] ai wa sekai o sukutte
+[02:18.69] 
+[02:19.19] 
+[02:13.22] sou nara yokatta noni na
+[02:14.65] ai zokusei
+[02:15.46] （ai zokusei）
+[02:18.18] ichi miri no zure de doku ni naru sore o daiji ni kakaete ita
+[02:21.27] ai zokusei
+[02:22.09] （ai zokusei）
+[02:24.75] ai suru hodo jakuten ni naru sore o suterarezu ni imashita
+[02:53.75] 
+[02:54.25] 
+[02:27.86] kore
+[02:28.06] jun ai? sai ai? sei ai? hen ai? mou ai? kyou ai? mushou ai?
+[02:31.30] jiko ai? rita ai? bakashiai?
+[02:32.96] ai ai urusee mou ikkai
+[02:34.62] jun ai? sai ai? sei ai? hen ai? mou ai? kyou ai? ika katsuai
+[03:04.62] 
+[03:05.12] 
+[02:38.18] arayuru ai ga atta
+[02:39.83] mou kimi wa inakatta
+[02:41.09] ai zokusei
+```
